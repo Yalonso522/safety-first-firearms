@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Safety First Firearms and Ranges</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body><table width="950" border="0">
+	<tr>
+		<td colspan="2"><img src="../images/banner.jpg" width="950" height="150" alt="banner" /></td>
+	</tr>
+	<tr>
+		<td><h1>Navigation</h1>
+			<ul>
+				<li><a href="../index.html">Homepage</a></li>
+				<li><a href="../our-founder.html">Our Founder</a></li>
+				</ul>
+			<p>Products</p>
+			<ul>
+				<li><a href="../products/berreta.html">Beretta 92FS (9MM)</a></li>
+				<li><a href="../products/sig-sauerq.html">Sig Sauer P229 (9MM)</a></li>
+				<li><a href="../products/heckler-koch.html">Heckler &amp; Koch P30L (9MM)</a></li>
+				<li><a href="../products/walther.html">Walther PPQ M2</a></li>
+			</ul>
+			<p>Outdoor Shooting Range </p>
+			<ul>
+				<li><a href="../locations/east-coast.html">Location #1: East Coast</a></li>
+				<li><a href="../locations/west-coast.html">Location #2: West Coast</a></li>
+				<li><a href="../locations/new-england-area.html">Location #3: New England Area</a></li>
+				<li><a href="../locations/midwest.html">Location #4: Midwest </a>		</li>
+			</ul></td>
+		<td><!-- TemplateBeginEditable name="content" -->this is where my stuff goes<!-- TemplateEndEditable --></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../images/footer.jpg" width="950" height="150" alt="Footer" /></td>
+	</tr>
+</table>
+
+</body>
+</html>
